@@ -2,7 +2,7 @@
 
 I'm a Director of Product Management building AI-first recruiting products — and I use AI to do the work of an entire PM team.
 
-Most of my work lives at the intersection of **enterprise SaaS product strategy** and **LLM-powered workflows**. I ship frameworks, pricing models, and internal tooling that make AI tangible for business users — not just engineers.
+Most of my work lives at the intersection of **enterprise SaaS product strategy** and **LLM-powered workflows**. I ship frameworks, GTM strategies ,pricing models, and internal tooling that make AI tangible for business users — not just engineers.
 
 At **Ceipal** (an enterprise ATS/VMS platform serving staffing agencies and corporate HR), I'm architecting the transition from per-seat SaaS to an **agentic AI recruiting platform** — built around an Agent Catalog model with outcome-based billing.
 
@@ -15,7 +15,8 @@ At **Ceipal** (an enterprise ATS/VMS platform serving staffing agencies and corp
 - **Product workflows with Claude** — prompt libraries, React artifacts, CSV-to-dashboard pipelines
 - **Enterprise ATS product** — roadmap planning, stakeholder management, engineering coordination across India and US
 - **PM frameworks** — capacity allocation models, sprint governance, prioritization algorithms
-
+- **Sales and Customer Support frameworks** — QBRs, Sales playbooks
+  
 ---
 
 ## About Me
@@ -40,3 +41,5 @@ At **Ceipal** (an enterprise ATS/VMS platform serving staffing agencies and corp
 ---
 
 Working on AI × Product or building agentic SaaS? Find me on [LinkedIn](#) or drop a ⭐ on something useful.
+
+-📍 Hyderabad, India &nbsp;|&nbsp; 🏢 Ceipal &nbsp;|&nbsp; 🤝 Open to collabs on AI × Product
