@@ -40,6 +40,6 @@ At **Ceipal** (an enterprise ATS/VMS platform serving staffing agencies and corp
 
 ---
 
-Working on AI × Product or building agentic SaaS? Find me on [LinkedIn](#) or drop a ⭐ on something useful.
+Working on AI × Product or building agentic SaaS? Find me on [LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-iimb/) or drop a ⭐ on something useful.
 
 -📍 Hyderabad, India &nbsp;|&nbsp; 🏢 Ceipal &nbsp;|&nbsp; 🤝 Open to collabs on AI × Product
